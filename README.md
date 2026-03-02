@@ -1,18 +1,17 @@
-# Important Commands
+<div align="center">
 
-### One time build assets for development
-`$ npm run build`
+# Fend Boilerplate
 
-### Build assets and enable source files watcher
-`$ npm run watch`
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
-### Start a development server - reloading automatically after each file change.
-`$ npm run dev`
-### Production / Build Assets
-### Optimize assets for production by:
-`$ npm run production`
+</div>
 
-### Run Code Style Linters
-`$ npm run lint:sass`
+---
 
-`$ npm run lint:js`
+## Quick Start
+
+```bash
+git clone https://github.com/stussysenik/fend-boilerplate.git
+cd fend-boilerplate
+```
