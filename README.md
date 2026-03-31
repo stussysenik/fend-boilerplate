@@ -1,17 +1,19 @@
-<div align="center">
+# fend-boilerplate
 
-# Fend Boilerplate
+Fend Boilerplate
 
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
+![SCSS](https://img.shields.io/badge/SCSS-555555?style=flat-square&logo=scss&logoColor=white)
 
-</div>
+## About
+
+📦 **Project** built with SCSS.
+
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
 
 ---
 
-## Quick Start
-
-```bash
-git clone https://github.com/stussysenik/fend-boilerplate.git
-cd fend-boilerplate
-```
+*Built by [@stussysenik](https://github.com/stussysenik)*
